@@ -31,7 +31,7 @@
 
 </div>
 
-🎓 I'm a second-year B.Tech CSE student at **VIT Pune**, specializing in **Cyber Security, IoT, and Blockchain Technology**.
+🎓 I'm a B.Tech CSE student at **VIT Pune**, specializing in **Cyber Security, IoT, and Blockchain Technology**.
 
 🧱 My focus is on strengthening core engineering principles: mastering **Data Structures & Algorithms in C++**, understanding **network architecture**, and getting hands-on with **IoT systems** and **cryptographic concepts**.
 
@@ -85,7 +85,7 @@ me.say_hi()
 <br/><br/>
 
 **💻 Language**<br/>
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,CSS,HTML&theme=dark" alt="languages" />
 
 **🔐 Cybersecurity & Networking**<br/>
 <img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" alt="cyber" />
@@ -106,26 +106,11 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manthanbhoge8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanbhoge8&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=12" alt="top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=manthanbhoge8&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manthanbhoge8&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="activity graph" />
-
-</div>
-
-<br/>
-
-## 🏆 Trophy Cabinet
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manthanbhoge8&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 
 </div>
 
@@ -180,8 +165,6 @@ me.say_hi()
 <a href="https://www.linkedin.com/in/manthanbhoge28"><img src="https://img.shields.io/badge/Let's%20Talk-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <br/><br/>
-
-*"First, solve the problem. Then, write the code."* 💡
 
 <br/>
 
