@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hey%2C%20I'm%20Manthan%20Bhoge&fontSize=44&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20%7C%20IoT%20%7C%20Blockchain&descSize=20&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://github.com/manthanbhoge8">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Cyber+Security+Enthusiast;IoT+Tinkerer;Blockchain+Explorer;DSA+in+C%2B%2B;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&random=false&width=700&height=60&lines=Cyber+Security+Enthusiast;IoT+Tinkerer;Blockchain+Explorer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -85,7 +85,7 @@ me.say_hi()
 <br/><br/>
 
 **💻 Language**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,CSS,HTML&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,css,html&theme=dark" alt="languages" />
 
 **🔐 Cybersecurity & Networking**<br/>
 <img src="https://skillicons.dev/icons?i=kali,linux,bash&theme=dark" alt="cyber" />
@@ -108,10 +108,7 @@ me.say_hi()
 
 <img src="https://streak-stats.demolab.com?user=manthanbhoge8&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manthanbhoge8&theme=tokyo-night&hide_border=true&area=true&radius=12" width="100%" alt="activity graph" />
-
+<br/>
 </div>
 
 <br/>
